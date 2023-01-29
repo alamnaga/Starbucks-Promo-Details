@@ -4,10 +4,8 @@
 
 **Link Figma** [Figma](https://www.figma.com/file/Sm3K8mNiE1DVUOTbEccNzU/Starbucks-Promo?node-id=0%3A1&t=5tbliA14VYt9idDB-1)
 
-![Screenshots Web Version](/assets/images/screenshots/Web.PNG)
-
-<p align="center">
-<img src="/assets/images/screenshots/mobile.PNG" width="200" height="400"></p>
+![Screenshot Web Version](https://github.com/alamnaga/Starbucks-Promo-Details/blob/main/assets/images/Screenshots/Web.PNG)
+![Screenshot MobileVersion](https://github.com/alamnaga/Starbucks-Promo-Details/blob/main/assets/images/Screenshots/mobile.png)
 
 **Style Guide**
 
