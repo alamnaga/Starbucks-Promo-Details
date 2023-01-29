@@ -1,7 +1,7 @@
 # Starbucks Products Promo (Responsive)
 
 ### - with HTML, CSS, JS
-
+**Live Demo* [DEMO](https://starbucks-promo-details.vercel.app/)
 **Link Figma** [Figma](https://www.figma.com/file/Sm3K8mNiE1DVUOTbEccNzU/Starbucks-Promo?node-id=0%3A1&t=5tbliA14VYt9idDB-1)
 
 ![Screenshot Web Version](https://github.com/alamnaga/Starbucks-Promo-Details/blob/main/assets/images/Screenshots/Web.PNG)
